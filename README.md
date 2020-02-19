@@ -1,2 +1,0 @@
-# workdayplan
-Created with CodeSandbox
